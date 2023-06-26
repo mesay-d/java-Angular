@@ -1,2 +1,2 @@
 # java-Angular
-this puropse of this project give who do`t have any idea about Angular with java using the frame work. spring frame work
+The purpose of this project give those who don't have any idea about Angular with Java using the framework. spring framework
